@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy William19! (pero en realidad me llamo Daniel 🤫)
 
 ## 🧐 ¿Quién soy?
-Soy estudiante de Ingeniería de Sistemas y Computación, a nada de ser ingeniero. Me gusta la programación web, sobre todo el front y esas cosas.
+Soy estudiante de Ingeniería de Sistemas y Computación, a nada de ser ingeniero. Me gusta la programación web, sobre todo el front y esas cosas. También me gusta la infraestructura, y en mi tiempo libre disfruto jugar tenis y montar bicicleta... ya ser bueno es otra cosa.
 
 ## 🛠️ ¿Qué hago?
 - ✨ Escribo código que funciona (eventualmente).
