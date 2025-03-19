@@ -25,7 +25,8 @@ Soy estudiante de Ingeniería de Sistemas y Computación, a nada de ser ingenier
 Si alguna vez necesitas ayuda con código o para jugar CSGO, me puedes encontrar en:  
 📍 Aquí (obvio)  
 📍 En la deep web 
-📍 En mi escritorio, preguntándome por qué no sirve  
+📍 En mi escritorio, preguntándome por qué no sirve
+
 
 💾 **Disclaimer**: No me hago responsable si pruebas mi código.   
 
