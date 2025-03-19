@@ -22,9 +22,8 @@ Soy estudiante de Ingeniería de Sistemas y Computación, a nada de ser ingenier
 ✅ Manejar bugs con un elegante "eso no es un bug, es una feature"  
 
 ## 🌍 ¿Dónde encontrarme?
-Si alguna vez necesitas ayuda con código o para jugar CSGO, me puedes encontrar en:  
+Si alguna vez necesitas ayuda con código, me puedes encontrar en:  
 📍 Aquí (obvio)  
-📍 En la deep web 
 📍 En mi escritorio, preguntándome por qué no sirve
 
 
