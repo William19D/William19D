@@ -30,3 +30,16 @@ Si alguna vez necesitas ayuda con código, me puedes encontrar en:
 💾 **Disclaimer**: No me hago responsable si pruebas mi código.   
 
 🐱‍💻 _"Ni modo, tocó formatear"_
+
+<h2 align="center">:bar_chart: Github Stats</h2>
+<div align="center">
+    <div style="display: inline-block; margin: 0 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisosky&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Luisosky Github stats" />
+    </div>
+    <div style="display: inline-block; margin: 0 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisosky&theme=tokyonight&hide_border=false" alt="Luisosky Streak Stats" />
+    </div>
+    <div style="display: inline-block; margin: 0 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=William19D&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Luisosky Github Stats" />
+    </div>
+</div>
