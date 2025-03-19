@@ -34,12 +34,12 @@ Si alguna vez necesitas ayuda con código, me puedes encontrar en:
 <h2 align="center">:bar_chart: Github Stats</h2>
 <div align="center">
     <div style="display: inline-block; margin: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William19D&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Luisosky Github stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William19D&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="yo Github stats" />
     </div>
     <div style="display: inline-block; margin: 0 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=William19D&theme=tokyonight&hide_border=false" alt="Luisosky Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=William19D&theme=tokyonight&hide_border=false" alt="yo" />
     </div>
     <div style="display: inline-block; margin: 0 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=William19D&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Luisosky Github Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=William19D&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Yo Github Stats" />
     </div>
 </div>
