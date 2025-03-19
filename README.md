@@ -10,6 +10,7 @@ Soy estudiante de Ingeniería de Sistemas y Computación, a nada de ser ingenier
 
 ## 💻 Lenguajes y tecnologías que manejo
 - 🟨 JavaScript / TypeScript
+- 🥶Angular & React
 - ☕ Java
 - 🐍 Python
 - 🌐 HTML / CSS
