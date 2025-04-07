@@ -13,7 +13,7 @@ Soy estudiante de Ingeniería de Sistemas y Computación, a nada de ser ingenier
 - 🎯 Lo que necesite aprender, lo aprendo 🤷‍♂️
 
 ## 🌍 ¿De dónde soy?
-📍Colombia (obvio)  
+📍Colombia 
 
 💾 **Disclaimer**: No me hago responsable si pruebas mi código.   
 
